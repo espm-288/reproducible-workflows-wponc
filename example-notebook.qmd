@@ -2,7 +2,8 @@
 title: "example-notebook.qmd"
 format: html
 editor: visual
-author: will poncy
+author: william poncy
+date: 02-23-2023
 ---
 
 ## Quarto
